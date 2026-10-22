@@ -1,0 +1,197 @@
+Factory,State/Province,Order_Lines,Unique_Orders,Sales,Gross_Profit,Units
+Lot's O' Nuts,California,1125,944,15044.9,10401.0,4221
+Wicked Choccy's,California,823,689,11394.0,7421.32,3266
+Lot's O' Nuts,New York,645,544,8757.81,6055.01,2455
+Lot's O' Nuts,Texas,569,479,7642.34,5278.34,2142
+Wicked Choccy's,New York,436,353,5518.25,3594.11,1583
+Wicked Choccy's,Texas,388,326,5140.5,3347.74,1478
+Lot's O' Nuts,Pennsylvania,331,270,4338.55,2993.65,1216
+Lot's O' Nuts,Washington,269,230,3492.91,2415.91,980
+Lot's O' Nuts,Illinois,267,235,3539.21,2452.51,995
+Lot's O' Nuts,Ohio,262,218,3472.7400000000002,2400.24,974
+Wicked Choccy's,Pennsylvania,227,188,2804.25,1826.99,799
+Wicked Choccy's,Washington,221,187,3023.0,1969.6399999999999,860
+Wicked Choccy's,Illinois,210,183,2801.5,1825.22,798
+Lot's O' Nuts,Florida,209,176,2640.13,1820.73,740
+Wicked Choccy's,Ohio,189,157,2479.75,1615.73,705
+Wicked Choccy's,Florida,161,131,2009.25,1308.59,577
+Lot's O' Nuts,Michigan,147,118,2103.76,1450.86,590
+Lot's O' Nuts,North Carolina,143,120,2045.6100000000001,1417.01,574
+Lot's O' Nuts,Arizona,111,94,1468.05,1013.15,411
+Lot's O' Nuts,Georgia,110,88,1474.09,1027.79,415
+Lot's O' Nuts,Virginia,109,91,1538.84,1059.24,431
+Lot's O' Nuts,Tennessee,109,88,1361.56,941.76,382
+Wicked Choccy's,Virginia,106,85,1490.0,970.2,430
+Wicked Choccy's,Arizona,105,88,1429.5,931.46,406
+Lot's O' Nuts,Colorado,103,82,1447.66,999.0600000000001,405
+Wicked Choccy's,North Carolina,101,91,1376.25,896.75,391
+Wicked Choccy's,Michigan,100,83,1127.0,733.56,328
+Lot's O' Nuts,Indiana,90,74,1253.78,869.58,352
+Lot's O' Nuts,Oregon,77,62,1085.9,751.6,305
+Lot's O' Nuts,Kentucky,77,63,1039.13,715.73,291
+Lot's O' Nuts,Massachusetts,76,58,1003.24,690.54,281
+Wicked Choccy's,Colorado,70,49,906.5,590.22,262
+Wicked Choccy's,Tennessee,67,56,915.75,596.21,265
+Wicked Choccy's,Georgia,65,55,862.25,561.43,249
+Lot's O' Nuts,New Jersey,65,53,825.88,567.98,231
+Lot's O' Nuts,Maryland,60,44,812.74,567.54,229
+Wicked Choccy's,New Jersey,59,49,672.0,437.56,194
+Lot's O' Nuts,Wisconsin,58,44,768.25,531.95,216
+Wicked Choccy's,Kentucky,58,45,769.25,501.39,217
+Wicked Choccy's,Massachusetts,54,43,671.25,436.95,195
+Wicked Choccy's,Indiana,54,44,708.25,461.31,203
+Wicked Choccy's,Delaware,49,37,601.5,391.42,176
+Lot's O' Nuts,Connecticut,47,40,523.59,362.29,147
+Wicked Choccy's,Wisconsin,47,42,737.25,479.83,215
+Wicked Choccy's,Minnesota,45,36,595.25,387.87,169
+Wicked Choccy's,Oregon,43,39,628.25,409.51,177
+Lot's O' Nuts,Delaware,43,39,631.59,436.19,177
+Lot's O' Nuts,Minnesota,43,38,561.21,388.81,158
+Wicked Choccy's,Maryland,41,32,652.25,425.23,183
+Lot's O' Nuts,Oklahoma,41,34,569.4,395.0,160
+Lot's O' Nuts,Missouri,36,30,514.08,359.08,145
+Lot's O' Nuts,Alabama,34,30,475.61,326.91,133
+Secret Factory,California,31,31,1238.75,620.55,106
+Lot's O' Nuts,Arkansas,31,25,434.69,299.69,122
+Wicked Choccy's,Connecticut,31,30,440.75,287.01,127
+Lot's O' Nuts,Rhode Island,30,23,353.76,242.86,99
+Wicked Choccy's,Ontario,30,17,466.25,303.35,137
+Lot's O' Nuts,Mississippi,30,25,448.43,312.33,126
+Lot's O' Nuts,Utah,29,21,393.91,270.11,110
+Wicked Choccy's,Missouri,29,25,362.25,235.82999999999998,105
+Lot's O' Nuts,Ontario,28,24,348.32,239.22,97
+Wicked Choccy's,Arkansas,27,21,393.5,256.38,112
+Wicked Choccy's,Oklahoma,25,22,308.25,200.91,87
+Secret Factory,New York,24,23,1026.25,514.45,101
+Lot's O' Nuts,Louisiana,24,21,283.71000000000004,197.31,80
+Wicked Choccy's,Quebec,24,16,254.75,165.53,77
+Lot's O' Nuts,Quebec,24,20,242.93,165.83,68
+Lot's O' Nuts,Nevada,24,23,389.21000000000004,268.11,109
+Lot's O' Nuts,Nebraska,23,20,295.28000000000003,205.38,83
+Wicked Choccy's,Utah,23,22,362.5,236.1,104
+Wicked Choccy's,Alabama,22,18,333.75,217.25,97
+Wicked Choccy's,Mississippi,22,17,315.75,205.61,91
+Wicked Choccy's,Rhode Island,21,18,282.25,183.83,81
+Lot's O' Nuts,South Carolina,21,18,281.32,194.92000000000002,79
+The Other Factory,California,21,21,233.75,33.75,70
+Secret Factory,Pennsylvania,19,19,762.5,382.9,100
+Wicked Choccy's,South Carolina,19,14,307.0,200.16,86
+Lot's O' Nuts,British Columbia,18,18,253.4,173.8,71
+Lot's O' Nuts,New Mexico,18,18,260.71,179.41,73
+Wicked Choccy's,New Mexico,17,14,229.5,149.26,68
+Lot's O' Nuts,Alberta,16,12,204.32,141.42000000000002,57
+Lot's O' Nuts,Iowa,16,14,227.87,157.47,64
+Secret Factory,Texas,16,16,517.5,268.7,63
+Wicked Choccy's,Louisiana,15,14,220.5,143.54,64
+Lot's O' Nuts,Kansas,15,15,188.93,130.83,53
+The Other Factory,New York,14,13,181.75,29.75,54
+Wicked Choccy's,Nebraska,14,12,185.75,121.21,51
+Wicked Choccy's,Iowa,14,12,172.5,112.5,48
+Lot's O' Nuts,Idaho,14,12,146.5,100.9,41
+Secret Factory,Ohio,13,12,768.75,384.95,60
+Secret Factory,Illinois,13,13,546.25,273.65,47
+Lot's O' Nuts,New Hampshire,13,13,178.02,123.02,50
+Wicked Choccy's,Nevada,12,10,151.5,98.82,42
+Secret Factory,Washington,11,11,351.25,175.85,26
+Wicked Choccy's,New Hampshire,11,10,208.25,135.51,61
+Wicked Choccy's,Manitoba,10,6,120.25,78.27,35
+Lot's O' Nuts,South Dakota,9,6,117.59,82.09,33
+The Other Factory,Texas,9,9,100.75,7.75,31
+Wicked Choccy's,Kansas,9,8,74.25,48.39,21
+Sugar Shack,New York,9,9,56.97,29.12,31
+Wicked Choccy's,Alberta,8,8,146.0,94.88,44
+Lot's O' Nuts,District of Columbia,8,6,126.0,85.3,35
+Lot's O' Nuts,Montana,8,7,92.61,64.01,26
+Secret Factory,Colorado,7,7,171.25,103.85,20
+Secret Factory,Florida,7,6,78.75,52.15,35
+Wicked Choccy's,Montana,7,5,109.5,71.46,30
+The Other Factory,Pennsylvania,7,7,97.5,7.5,30
+Wicked Choccy's,Idaho,7,6,78.75,51.25,23
+Secret Factory,Georgia,7,6,317.5,159.1,29
+Wicked Choccy's,Nova Scotia,6,6,87.5,56.900000000000006,26
+Lot's O' Nuts,Prince Edward Island,6,6,78.1,54.9,22
+Lot's O' Nuts,Newfoundland and Labrador,6,5,162.0,112.5,45
+Lot's O' Nuts,Maine,6,5,71.23,49.03,20
+Lot's O' Nuts,Vermont,5,4,103.19,72.39,29
+Lot's O' Nuts,North Dakota,5,4,57.160000000000004,39.66,16
+Secret Factory,Arizona,5,5,640.0,320.0,32
+Wicked Choccy's,Vermont,5,5,51.75,33.69,15
+Secret Factory,Michigan,5,5,82.5,41.7,21
+Secret Factory,Wisconsin,5,5,415.0,207.8,32
+Secret Factory,Virginia,5,5,93.75,47.15,15
+The Other Factory,Virginia,4,4,55.25,4.25,17
+Wicked Choccy's,Prince Edward Island,4,2,52.0,33.76,16
+Secret Factory,Indiana,4,4,21.25,11.05,17
+Secret Factory,North Carolina,4,4,20.0,10.4,16
+Lot's O' Nuts,New Brunswick,4,4,97.72,69.72,28
+Wicked Choccy's,British Columbia,4,4,37.5,24.5,10
+The Other Factory,Washington,4,3,52.0,4.0,16
+Wicked Choccy's,New Brunswick,4,4,75.0,49.0,20
+Secret Factory,Rhode Island,3,3,142.5,71.3,9
+Secret Factory,Tennessee,3,3,62.5,31.7,20
+Secret Factory,Maryland,3,3,8.75,4.55,7
+Secret Factory,Alabama,3,3,150.0,75.2,15
+Wicked Choccy's,South Dakota,3,2,33.75,22.05,9
+The Other Factory,New Jersey,3,3,68.25,5.25,21
+The Other Factory,Ohio,3,3,29.25,2.25,9
+Sugar Shack,Pennsylvania,3,3,24.23,14.43,8
+Sugar Shack,Texas,3,3,15.0,7.0,10
+Sugar Shack,Michigan,3,3,17.740000000000002,10.09,7
+The Other Factory,Florida,3,3,39.0,3.0,12
+The Other Factory,Tennessee,3,3,42.25,3.25,13
+The Other Factory,Massachusetts,3,3,32.5,2.5,10
+Sugar Shack,Florida,3,3,36.89,22.64,15
+Wicked Choccy's,Maine,2,2,55.25,36.07,15
+Wicked Choccy's,North Dakota,2,1,52.5,34.3,14
+Secret Factory,Alberta,2,2,180.0,90.0,9
+Lot's O' Nuts,West Virginia,2,2,38.72,27.42,11
+Lot's O' Nuts,Manitoba,2,2,18.0,12.0,5
+Secret Factory,Arkansas,2,2,63.75,31.95,6
+Sugar Shack,Illinois,2,2,12.0,6.3,5
+Secret Factory,Louisiana,2,2,11.25,5.85,9
+Secret Factory,New Jersey,2,2,6.25,3.25,5
+Secret Factory,Nevada,2,2,202.5,101.3,12
+Secret Factory,Quebec,2,2,100.0,50.0,5
+Secret Factory,New Mexico,2,2,12.5,6.5,10
+Secret Factory,Massachusetts,2,2,100.0,50.0,5
+Secret Factory,Oregon,2,2,180.0,90.0,9
+Secret Factory,Kentucky,2,2,46.25,23.25,7
+Sugar Shack,Ohio,2,2,18.46,9.86,11
+The Other Factory,Kentucky,2,2,26.0,2.0,8
+The Other Factory,Alabama,2,2,35.75,2.75,11
+The Other Factory,Delaware,2,2,26.0,2.0,8
+The Other Factory,Georgia,2,2,39.0,3.0,12
+The Other Factory,New Hampshire,2,2,35.75,2.75,11
+The Other Factory,Oregon,2,2,26.0,2.0,8
+Wicked Choccy's,West Virginia,2,2,25.25,16.47,7
+The Other Factory,Arizona,2,2,38.75,18.75,10
+The Other Factory,Connecticut,2,2,9.75,0.75,3
+Wicked Choccy's,District of Columbia,2,2,16.25,10.55,5
+Wicked Choccy's,Saskatchewan,2,2,29.25,18.99,9
+The Other Factory,Colorado,2,2,19.5,1.5,6
+Lot's O' Nuts,Wyoming,1,1,13.96,9.96,4
+Secret Factory,Connecticut,1,1,2.5,1.3,2
+Secret Factory,Delaware,1,1,60.0,30.0,3
+The Other Factory,North Carolina,1,1,9.0,7.0,2
+The Other Factory,Nevada,1,1,16.25,1.25,5
+The Other Factory,Maryland,1,1,3.25,0.25,1
+The Other Factory,Louisiana,1,1,9.75,0.75,3
+The Other Factory,Missouri,1,1,6.5,0.5,2
+Sugar Shack,Connecticut,1,1,3.98,2.48,2
+Sugar Shack,Delaware,1,1,4.5,2.1,3
+Secret Factory,Nebraska,1,1,2.5,1.3,2
+Secret Factory,South Carolina,1,1,6.25,3.25,5
+Secret Factory,Minnesota,1,1,5.0,2.6,4
+Secret Factory,Mississippi,1,1,80.0,40.0,4
+Secret Factory,New Hampshire,1,1,6.25,3.25,5
+The Other Factory,Indiana,1,1,19.5,1.5,6
+Sugar Shack,Washington,1,1,1.99,1.24,1
+Sugar Shack,Tennessee,1,1,1.5,0.6,1
+Sugar Shack,Rhode Island,1,1,4.5,2.1,3
+Sugar Shack,New Jersey,1,1,5.97,3.72,3
+Secret Factory,Utah,1,1,100.0,50.0,5
+Secret Factory,Vermont,1,1,7.5,3.9,6
+Sugar Shack,Arizona,1,1,11.25,6.75,3
+Sugar Shack,California,1,1,6.0,2.8,4
+The Other Factory,Rhode Island,1,1,22.75,1.75,7
+The Other Factory,South Carolina,1,1,6.5,0.5,2

@@ -1,0 +1,11 @@
+Check,Result
+Total records,10194
+Duplicate rows,0
+Missing order dates,0
+Missing ship dates,0
+Order date range,2024-01-02 to 2025-12-31
+Ship date range,2026-06-30 to 2030-06-28
+Ship dates before order dates,0
+Lead times over 30 days,10194
+Records with plausible 0-30 day lead time,0
+Unmapped products,0

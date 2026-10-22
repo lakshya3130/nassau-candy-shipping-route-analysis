@@ -1,0 +1,21 @@
+Factory,Region,Total_Sales,Total_Profit,Total_Units,Order_Lines,Unique_Orders
+Lot's O' Nuts,Pacific,24294.04,16788.44,6813,1813,1524
+Lot's O' Nuts,Atlantic,22166.13,15315.63,6214,1661,1378
+Wicked Choccy's,Pacific,18525.75,12067.41,5301,1342,1123
+Lot's O' Nuts,Interior,17856.86,12353.56,5012,1321,1113
+Wicked Choccy's,Atlantic,15414.5,10039.66,4422,1197,973
+Wicked Choccy's,Interior,12419.25,8088.99,3561,950,802
+Lot's O' Nuts,Gulf,12023.12,8313.42,3373,897,745
+Wicked Choccy's,Gulf,8993.25,5857.51,2579,663,547
+Secret Factory,Pacific,3076.25,1558.05,229,63,63
+Secret Factory,Atlantic,2991.25,1499.85,308,72,70
+Secret Factory,Interior,1590.0,806.8,186,45,45
+Secret Factory,Gulf,930.0,480.0,161,37,35
+The Other Factory,Atlantic,506.75,54.75,154,38,37
+The Other Factory,Pacific,386.25,61.25,115,32,31
+The Other Factory,Gulf,262.5,26.5,80,19,19
+The Other Factory,Interior,126.75,9.75,39,11,11
+Sugar Shack,Atlantic,118.61,63.81,61,18,18
+Sugar Shack,Interior,44.74,23.39,22,8,8
+Sugar Shack,Gulf,38.39,23.240000000000002,16,4,4
+Sugar Shack,Pacific,19.240000000000002,10.79,8,3,3

@@ -1,0 +1,14 @@
+NASSAU CANDY DISTRIBUTOR — PROJECT FINDINGS
+
+Records: 10,194; unique orders: 8,549
+Sales: $141,783.63; gross profit: $93,442.80; units: 38,654
+Leading region by sales: Pacific ($46,301.53)
+Leading state by sales: California ($27,917.40)
+Leading product by sales: Wonka Bar - Triple Dazzle Caramel ($28,485.00)
+Most-used mode by order lines: Standard Class
+
+DATE QUALITY: Not fit for delivery-efficiency measurement.
+Order dates: 2024-01-02 to 2025-12-31; ship dates: 2026-06-30 to 2030-06-28.
+10,194/10,194 records have computed lead times over 30 days; 0 have 0–30 day lead times.
+Do not publish route speed, delay rate, or efficiency score rankings until corrected shipment dates are supplied.
+Factory-to-state route tables therefore report shipment/order volume and commercial totals only.
